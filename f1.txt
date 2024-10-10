@@ -1,3 +1,8 @@
+hey i would like avoid merge conflict
 I am dev1
 I am from AP
 I like to watch webseries
+I am dev2
+I am from TN
+I like to watch serial
+
